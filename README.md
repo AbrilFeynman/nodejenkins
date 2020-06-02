@@ -1,2 +1,0 @@
-# samplenode
-sample toproob cirrus
